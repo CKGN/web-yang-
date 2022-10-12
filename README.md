@@ -31,10 +31,10 @@
 		<td>学历：</td>
 		<td><select name="degree">
 			<option value="">--请选择--</option>    
-			<option value="1">大专</option>    
-			<option value="2">本科</option>    
-			<option value="3">研究生</option>    
-			<option value="4">硕士</option>
+			<option value="1">斗气</option>    
+			<option value="2">斗师</option>    
+			<option value="3">斗尊</option>    
+			<option value="4">斗宗及以上</option>
 		</select></td>
 	</tr>
 	<tr>
